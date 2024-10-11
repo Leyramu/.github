@@ -44,7 +44,7 @@
 
 如果有任何问题或者建议，可以通过以下方式联系我们：
 
-- **Email**：miraitowa@leyramu.top
+- **Email**：leyramu@miraitowa.eu.org
 - **暂无更多**
 
 ## 许可证
